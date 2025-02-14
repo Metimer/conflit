@@ -1,3 +1,6 @@
 # conflit
 
 LOCAL 
+=======
+REMOTE
+
